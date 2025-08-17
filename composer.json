@@ -1,0 +1,12 @@
+{
+    "name": "ame/tugas2",
+    "authors": [
+        {
+            "name": "erfinsugiono",
+            "email": "erfinsugiono@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^12.24"
+    }
+}
